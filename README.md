@@ -1,4 +1,14 @@
-### Hi there 👋
+## Oi gente, eu sou a Adla 👋
+
+:blush: Estou aprendendo um pouco sobre as ferramentas de front-end e buscando melhorar minhas skills. :blush:
+
+### ~Você pode me encontrar nos links abaixo ;)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adlagomes/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adla.artist/) <img src="https://img.shields.io/badge/adlagomes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adlagomes&theme=radical&show_icons=true)
+
+
 
 <!--
 **adlagomes/adlagomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
