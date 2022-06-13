@@ -1,6 +1,6 @@
 ## Oi gente, eu sou a Adla 👋
 
-:blush: Estou aprendendo um pouco sobre as ferramentas de front-end e buscando melhorar minhas skills. :blush:
+:blush: Estou aprendendo um pouco sobre as ferramentas de Web Developments e buscando melhorar minhas skills. :blush:
 
 ### ~Você pode me encontrar nos links abaixo ;)
 
