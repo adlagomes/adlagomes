@@ -14,7 +14,7 @@
 
 <hr>
 
-## 💡 Dica para treinar lógica de programação
+<!-- ## 💡 Dica para treinar lógica de programação
 
 - [Hackerrank](https://www.hackerrank.com/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
@@ -22,7 +22,7 @@
 - [CodeWars](https://www.codewars.com/)
 
 
-
+ -->
 <!--
 **adlagomes/adlagomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
