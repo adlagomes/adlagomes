@@ -42,13 +42,14 @@
 
 <!--<a href="https://github.com/iuricode" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>-->
+</a>
 
 ## Faça contato através dos links:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adlagomes)](https://www.linkedin.com/in/adlagomes/)
 [![Gmail Badge](https://img.shields.io/badge/-adlagomes@email.com-AA310C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adlagomes@gmail.com)](mailto:adlagomes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/adlagomes?label=follow&style=social)](https://github.com/adlagomes)
+-->
 
 
 
