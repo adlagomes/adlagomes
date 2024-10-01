@@ -2,12 +2,30 @@
 
 :blush: Em 2021 entrei de cabeça no universo da programação. Para não entrar em pânico indo direto para coisas muito complexas optei por aprender um pouco sobre desenvolvimento front-end. Me aprofundei em JS, HTML, CSS e dei uma olhadinha para React. Hoje estou tentando me aprofundar mais no React, aprimorar o que já sei de JS, HTML e CSS, aprender coisas novas, e desenvolver sites e apps para colocar no meu portfólio que está em desenvolvimento. :blush:
 
-### ~Você pode se comunicar comigo através dos links abaixo ;)
+<p align="left">
+  🦄 Linguagens:
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F4DC2F?style=flat-square&labelColor=F4DC2F&logo=javascript&logoColor=black&link=" alt="Javascript">
+  <img src="https://img.shields.io/badge/-css3-2C73E5?style=flat-square&labelColor=2C73E5&logo=css3&logoColor=white&link=" alt="CSS3">
+  <img src="https://img.shields.io/badge/-HTML-D34100?style=flat-square&labelColor=D34100&logo=html&logoColor=white&link=" alt="HTML">
+  <img src="https://img.shields.io/badge/-Typescript-315FBA?style=flat-square&labelColor=315FBA&logo=typescript&logoColor=white&link=" alt="Typescript">
+</p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adlagomes/) <img src="https://img.shields.io/badge/adlagomes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+  💼 Ferramentas:
+  <p align="left">
+  <img src="https://img.shields.io/badge/-React-00BFCE?style=flat-square&labelColor=00BFCE&logo=react&logoColor=white&link=" alt="React"/></a>
+  <img src="https://img.shields.io/badge/-Nodejs-3F960C?style=flat-square&labelColor=3F960C&logo=nodejs&logoColor=white&link=" alt="Node JS">
+  <img src="https://img.shields.io/badge/-VSCode-1A50A0?style=flat-square&labelColor=1A50A0&logo=vscode&logoColor=white&link=" alt="VS Code">
+  <img src="" alt="">
+</p>
+---
+<p align="left" style="">
+~Faça contato comigo através dos links abaixo ;)
+</p>
 
-### Aprendendo :open_book::
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/REACT-1572B6?style=for-the-badge&logo=react&logoColor=white)![](https://camo.githubusercontent.com/4e4a3b5c3e9c00501ec866e2f2466c5a6032f838aca5f2cf3b14450e39e8a2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
+[<img src="https://img.shields.io/badge/-LinkedIn-1A50A0?style=flat-square&labelColor=1A50A0&logo=linkedin&logoColor=white&link" />](https://www.linkedin.com/in/adlagomes/) <a href="mailto:adlagomes@gmail.com?" title="Gmail"><img src="https://img.shields.io/badge/-adlagomes@gmail.com-C45800?style=flat-square&labelColor=C45800&logo=gmail&logoColor=white&link=mailto:adlagomes@gmail.com?" />
+
 <!-- <hr> -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adlagomes&theme=radical&show_icons=true) -->
