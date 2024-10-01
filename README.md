@@ -1,43 +1,54 @@
 ## Oi gente, eu sou a Adla 👋
 
-:blush: Em 2021 entrei de cabeça no universo da programação. Para não entrar em pânico indo direto para coisas muito complexas optei por aprender um pouco sobre desenvolvimento front-end. Me aprofundei em JS, HTML, CSS e dei uma olhadinha para React. Hoje estou tentando me aprofundar mais no React, aprimorar o que já sei de JS, HTML e CSS, aprender coisas novas, e desenvolver sites e apps para colocar no meu portfólio que está em desenvolvimento. :blush:
+:blush: Em 2021 entrei de cabeça no universo da programação. Para não entrar em pânico indo direto para coisas muito complexas optei por aprender um pouco sobre desenvolvimento front-end. Me aprofundei em JS, HTML, CSS e dei uma olhadinha para React. Hoje estou tentando me aprofundar mais no React, aprimorar o que já sei de JS, HTML e CSS, aprender coisas novas, e desenvolver sites e apps para colocar no meu portfólio que está em desenvolvimento.
 
-<p align="left">
-  🦄 Linguagens:
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F4DC2F?style=flat-square&labelColor=F4DC2F&logo=javascript&logoColor=black&link=" alt="Javascript">
-  <img src="https://img.shields.io/badge/-css3-2C73E5?style=flat-square&labelColor=2C73E5&logo=css3&logoColor=white&link=" alt="CSS3">
-  <img src="https://img.shields.io/badge/-HTML-D34100?style=flat-square&labelColor=D34100&logo=html&logoColor=white&link=" alt="HTML">
-  <img src="https://img.shields.io/badge/-Typescript-315FBA?style=flat-square&labelColor=315FBA&logo=typescript&logoColor=white&link=" alt="Typescript">
-</p>
+## Minhas Skills
 
-<p align="left">
-  💼 Ferramentas:
-  <p align="left">
-  <img src="https://img.shields.io/badge/-React-00BFCE?style=flat-square&labelColor=00BFCE&logo=react&logoColor=white&link=" alt="React"/></a>
-  <img src="https://img.shields.io/badge/-Nodejs-3F960C?style=flat-square&labelColor=3F960C&logo=nodejs&logoColor=white&link=" alt="Node JS">
-  <img src="https://img.shields.io/badge/-VSCode-1A50A0?style=flat-square&labelColor=1A50A0&logo=vscode&logoColor=white&link=" alt="VS Code">
-  <img src="" alt="">
-</p>
----
-<p align="left" style="">
-~Faça contato comigo através dos links abaixo ;)
-</p>
+**Aplicações e dados**
 
-[<img src="https://img.shields.io/badge/-LinkedIn-1A50A0?style=flat-square&labelColor=1A50A0&logo=linkedin&logoColor=white&link" />](https://www.linkedin.com/in/adlagomes/) <a href="mailto:adlagomes@gmail.com?" title="Gmail"><img src="https://img.shields.io/badge/-adlagomes@gmail.com-C45800?style=flat-square&labelColor=C45800&logo=gmail&logoColor=white&link=mailto:adlagomes@gmail.com?" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+<!-- ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
 
-<!-- <hr> -->
+**Utilidades**
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adlagomes&theme=radical&show_icons=true) -->
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<!-- <hr> -->
+**DevOps**
 
-## 💡 Dica para treinar lógica de programação
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<!--![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)-->
 
-- [Hackerrank](https://www.hackerrank.com/)
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-- [LeetCode](https://leetcode.com/)
-- [CodeWars](https://www.codewars.com/)
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<!--![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)-->
+
+<br/>
+
+<!--<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>-->
+
+## Faça contato através dos links:
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adlagomes)](https://www.linkedin.com/in/adlagomes/)
+[![Gmail Badge](https://img.shields.io/badge/-adlagomes@email.com-AA310C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adlagomes@gmail.com)](mailto:adlagomes@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/adlagomes?label=follow&style=social)](https://github.com/adlagomes)
 
 
 
