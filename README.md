@@ -1,6 +1,6 @@
 ## Oi gente, eu sou a Adla 👋
 
-:blush: Em 2021 entrei de cabeça no universo da programação. Para não entrar em pânico indo direto para coisas muito complexas optei por aprender um pouco sobre desenvolvimento front-end. Me aprofundei em JS, HTML, CSS e dei uma olhadinha para React. Hoje estou tentando me aprofundar mais no React, aprimorar o que já sei de JS, HTML e CSS, aprender coisas novas, e desenvolver sites e apps para colocar no meu portfólio que está em desenvolvimento.
+:blush: Sou uma desenvolvedora apaixonada pelo aprendizado contínuo e pela criação de soluções eficientes. Minha jornada na programação começou em 2021, focando no desenvolvimento front-end com forte domínio em JavaScript, HTML e CSS. Atualmente, estou expandindo meus conhecimentos em React e explorando novas tecnologias para desenvolver aplicações inovadoras. Sempre pronta para novos desafios e em constante evolução.
 
 ## Minhas Skills
 
